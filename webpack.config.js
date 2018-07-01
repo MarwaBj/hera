@@ -18,10 +18,7 @@ module.exports = {
           parallel: true,
           warnings: false,
           compress: {
-            warnings: false, // Suppress uglification warnings
-            // pure_getters: true,
-            // unsafe: true,
-            // unsafe_comps: true
+            warnings: false
           }
         }
       })
