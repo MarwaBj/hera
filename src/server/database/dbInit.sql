@@ -22,18 +22,11 @@ Dress tight down the chest rotation and drop down after chest wide down', 'XL', 
     'A-line', 'http://www.allurebridals.com/assets/1550/3154F.jpg', 800, 'USD', 'Gaza', 'AlAshi Center', 'most populer dress it is suitable for all bodies and take the alphapet A shape', 'XL', 'dresses', 3
   ),
   (
-<<<<<<< HEAD:src/server/database/dbInit.sql
     'sheath', 'https://cdn.shopify.com/s/files/1/0563/0457/products/blush-hayley-paige-bridal-spring-2018-style-1807-nessy_7_800x.jpg?v=1512516772',4000, 'USD', 'Gaza', 'AlGammal center', 'Fits the high-end bride', 'XL', 'dresses', 4
   ),
   (
     'Empire dress', 'http://www.fshoppers.com/wp-content/uploads/2016/08/Glamorous-White-Round-Neck-Solid-Floor-Length-Wedding-Dress-For-Women.jpg',5000, 'USD', 'Gaza', 'zaghroota.fashion', '
 Dress tight down the chest rotation and drop down after chest wide down', 'XL', 'dresses', 4
-=======
-    'Ballgown', 'https://www.kleinfeldbridal.com/wp-content/uploads/2017/10/blush-by-hayley-paige-modern-a-line-wedding-dress-33652272-435x600.jpg',1000, 'USD', 'Gaza', 'Rozalenda Center', 'princess dress suitable with taller brides', 'L', 'dresses', 4
-  ),
-  (
-    'Empire dresst', 'https://www.kleinfeldbridal.com/wp-content/uploads/2017/10/alita-graham-romantic-a-line-wedding-dress-33467648-419x600.jpg',399, 'USD', 'Gaza', 'White Dream Center', 'Dress tight down the chest rotation and drop down after chest wide down', 'L', 'dresses', 3
->>>>>>> 2c8244a0e20a5d9abcbe8dfb32c806650b05473c:src/server/database/dbInitializer.sql
   ),
   (
     'Empire dress', 'https://files.gitter.im/MarwaBj/hInP/50490A.jpg',1000, 'USD', 'Gaza', 'zaghroota.fashion', '

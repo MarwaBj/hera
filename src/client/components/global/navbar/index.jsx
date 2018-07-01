@@ -37,10 +37,11 @@ Contact
             <i className="fas fa-search" />
             <input type="text" placeholder="Search..." />
           </li>
-            <a className="nav_anchor navbar__list__item" href="/dashboard">
+          <a className="nav_anchor navbar__list__item" href="/dashboard">
             <li className="navbar__list__item navbar__list__search">
-              <i class="fas fa-shopping-cart"/>
-            </li></a>
+              <i className="fas fa-shopping-cart" />
+            </li>
+          </a>
           <li className="navbar__list__item">
             <span style={{ width: '48px' }}>
               {this.state.language}
